@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|c:\\2026it6\\it6d\\it6dfirstwebappdemocs\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|solutionrelative:controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|c:\\2026it6\\it6d\\it6dfirstwebappdemocs\\views\\math\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|solutionrelative:views\\math\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|c:\\2026it6\\it6d\\it6dfirstwebappdemocs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|c:\\2026it6\\it6d\\it6dfirstwebappdemocs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|c:\\2026it6\\it6d\\it6dfirstwebappdemocs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|c:\\2026it6\\it6d\\it6dfirstwebappdemocs\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|c:\\2026it6\\it6d\\it6dfirstwebappdemocs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|c:\\2026it6\\it6d\\it6dfirstwebappdemocs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33B84A93-F70A-436F-A26B-424347CFD171}|IT6DFirstWebAppDemoCS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T05:41:35.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowData.cshtml",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Views\\Math\\ShowData.cshtml",
+              "RelativeDocumentMoniker": "Views\\Math\\ShowData.cshtml",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Views\\Math\\ShowData.cshtml",
+              "RelativeToolTip": "Views\\Math\\ShowData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T05:38:24.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathController.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Controllers\\MathController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MathController.cs",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Controllers\\MathController.cs",
+              "RelativeToolTip": "Controllers\\MathController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:34:29.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T05:31:56.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:27:46.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:26:30.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:16:36.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstWebAppDemoCS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T05:54:57.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

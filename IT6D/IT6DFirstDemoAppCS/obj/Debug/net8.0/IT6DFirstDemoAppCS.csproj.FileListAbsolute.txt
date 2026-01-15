@@ -1,0 +1,14 @@
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\bin\Debug\net8.0\IT6DFirstDemoAppCS.exe
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\bin\Debug\net8.0\IT6DFirstDemoAppCS.deps.json
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\bin\Debug\net8.0\IT6DFirstDemoAppCS.runtimeconfig.json
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\bin\Debug\net8.0\IT6DFirstDemoAppCS.dll
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\bin\Debug\net8.0\IT6DFirstDemoAppCS.pdb
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\obj\Debug\net8.0\IT6DFirstDemoAppCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\obj\Debug\net8.0\IT6DFirstDemoAppCS.AssemblyInfoInputs.cache
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\obj\Debug\net8.0\IT6DFirstDemoAppCS.AssemblyInfo.cs
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\obj\Debug\net8.0\IT6DFirstDemoAppCS.csproj.CoreCompileInputs.cache
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\obj\Debug\net8.0\IT6DFirstDemoAppCS.dll
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\obj\Debug\net8.0\refint\IT6DFirstDemoAppCS.dll
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\obj\Debug\net8.0\IT6DFirstDemoAppCS.pdb
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\obj\Debug\net8.0\IT6DFirstDemoAppCS.genruntimeconfig.cache
+C:\2026IT6\IT6D\IT6DFirstDemoAppCS\obj\Debug\net8.0\ref\IT6DFirstDemoAppCS.dll

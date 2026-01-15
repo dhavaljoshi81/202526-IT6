@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IT6CFirstWebAppCS/1.0.0": {
+        "runtime": {
+          "IT6CFirstWebAppCS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT6CFirstWebAppCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\stringmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:stringmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DelegateDemo.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\DelegateDemo.cs",
+              "RelativeDocumentMoniker": "DelegateDemo.cs",
+              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\DelegateDemo.cs",
+              "RelativeToolTip": "DelegateDemo.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAwwHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:53:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringManager.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\StringManager.cs",
+              "RelativeDocumentMoniker": "StringManager.cs",
+              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\StringManager.cs",
+              "RelativeToolTip": "StringManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:53:47.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\DataManager.cs",
+              "RelativeDocumentMoniker": "DataManager.cs",
+              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\DataManager.cs",
+              "RelativeToolTip": "DataManager.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:53:25.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
