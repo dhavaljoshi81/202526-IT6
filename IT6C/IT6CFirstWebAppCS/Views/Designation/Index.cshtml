@@ -1,0 +1,45 @@
+﻿@using System.Data;
+
+@model DataTable
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Designation</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            @foreach (DataColumn column in Model.Columns)
+            {
+                <th>
+                    @column.Caption
+                </th>
+                
+            }
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (DataRow row in Model.Rows) {
+        <tr>
+            @foreach (var cell in row.ItemArray)
+                {
+                    <td>
+                        @cell
+                    </td>
+                }
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = row[0] }) |
+                @Html.ActionLink("Details", "Details", new { id= row[0] }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = row[0] })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
