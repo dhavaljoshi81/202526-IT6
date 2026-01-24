@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Data;
 using Microsoft.Data.SqlClient;
 using IT6CFirstWebAppCS.Models;
+using System.Collections;
 
 namespace IT6CFirstWebAppCS.Controllers
 {
@@ -25,6 +26,38 @@ namespace IT6CFirstWebAppCS.Controllers
             
             _adapter.Fill(_dataSet, "Designation");
             _connection.Close();
+        }
+
+        public ActionResult Search()
+        {
+
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Search(string DesignationName)
+        {
+            ArrayList resultList = new ArrayList();
+            foreach (DataRow row in _dataSet.Tables["Designation"].Rows)
+            {
+                if (row["DesignationName"].ToString().Contains(DesignationName))
+                {
+                    Designation designation = new Designation
+                    {
+                        DesignationID = Convert.ToInt32(row["DesignationID"]),
+                        DesignationName = row["DesignationName"].ToString()
+                    };
+                    //return View("Details", designation);
+                    resultList.Add(designation);
+                }
+            }
+            return View("SearchResult", resultList);
+        }
+
+        public ActionResult SearchResult(ArrayList searchList)
+        {
+
+            return View(searchList);
         }
 
         public ActionResult ListAll()

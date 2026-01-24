@@ -50,6 +50,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cTGlzdEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/SearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cU2VhcmNoUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,41 @@
+﻿@using System.Collections;
+
+@model ArrayList
+
+@{
+    ViewData["Title"] = "SearchResult";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Search Result</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Designation ID
+            </th>
+            <th>
+                Designation Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => ((Designation)item).DesignationID)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => ((Designation)item).DesignationName)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { ((Designation)item).DesignationID }) |
+                    @Html.ActionLink("Details", "Details", new { ((Designation)item).DesignationID }) |
+                    @Html.ActionLink("Delete", "Delete", new { ((Designation)item).DesignationID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
