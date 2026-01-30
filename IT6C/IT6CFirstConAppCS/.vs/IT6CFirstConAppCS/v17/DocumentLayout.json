@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\indexers\\indexerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:indexers\\indexerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\indexers\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:indexers\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\stringmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:stringmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\indexers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:indexers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,40 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DelegateDemo.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\DelegateDemo.cs",
-              "RelativeDocumentMoniker": "DelegateDemo.cs",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\DelegateDemo.cs",
-              "RelativeToolTip": "DelegateDemo.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAwwHIAAAABAAAA",
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Students.cs",
+              "RelativeDocumentMoniker": "Indexers\\Students.cs",
+              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Students.cs",
+              "RelativeToolTip": "Indexers\\Students.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwEUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T06:53:52.048Z",
+              "WhenOpened": "2026-01-29T08:57:05.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StringManager.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\StringManager.cs",
-              "RelativeDocumentMoniker": "StringManager.cs",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\StringManager.cs",
-              "RelativeToolTip": "StringManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Student.cs",
+              "RelativeDocumentMoniker": "Indexers\\Student.cs",
+              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Student.cs",
+              "RelativeToolTip": "Indexers\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T06:53:47.541Z",
+              "WhenOpened": "2026-01-29T08:54:45.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataManager.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\DataManager.cs",
-              "RelativeDocumentMoniker": "DataManager.cs",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\DataManager.cs",
-              "RelativeToolTip": "DataManager.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCIAAAAmAAAA",
+              "Title": "IndexerDemo.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\IndexerDemo.cs",
+              "RelativeDocumentMoniker": "Indexers\\IndexerDemo.cs",
+              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\IndexerDemo.cs",
+              "RelativeToolTip": "Indexers\\IndexerDemo.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T06:53:25.35Z",
+              "WhenOpened": "2026-01-29T08:53:38.741Z",
               "EditorCaption": ""
             }
           ]

@@ -97,7 +97,7 @@ namespace IT6CFirstConAppCS
             Console.WriteLine("Message for you: " + message);
         }
 
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             DataManager dataManager = new DataManager();
             

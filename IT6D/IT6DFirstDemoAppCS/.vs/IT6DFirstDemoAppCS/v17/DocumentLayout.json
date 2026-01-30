@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|c:\\2026it6\\it6d\\it6dfirstdemoappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|c:\\2026it6\\it6d\\it6dfirstdemoappcs\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|c:\\2026it6\\it6d\\it6dfirstdemoappcs\\callbackdemoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|solutionrelative:callbackdemoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|c:\\2026it6\\it6d\\it6dfirstdemoappcs\\delegagtedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|solutionrelative:delegagtedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|c:\\2026it6\\it6d\\it6dfirstdemoappcs\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|solutionrelative:math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|c:\\2026it6\\it6d\\it6dfirstdemoappcs\\sstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC7D121-0DD4-4736-A515-D1AE5415A215}|IT6DFirstDemoAppCS.csproj|solutionrelative:sstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,52 +34,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DelegagteDemo.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\DelegagteDemo.cs",
-              "RelativeDocumentMoniker": "DelegagteDemo.cs",
-              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\DelegagteDemo.cs",
-              "RelativeToolTip": "DelegagteDemo.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAiwBQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T05:52:52.502Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CallBackDemoClass.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\CallBackDemoClass.cs",
-              "RelativeDocumentMoniker": "CallBackDemoClass.cs",
-              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\CallBackDemoClass.cs",
-              "RelativeToolTip": "CallBackDemoClass.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvwoAAAA1AAAA",
+              "Title": "SStudent.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\SStudent.cs",
+              "RelativeDocumentMoniker": "SStudent.cs",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\SStudent.cs",
+              "RelativeToolTip": "SStudent.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T05:33:28.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T05:27:54.656Z",
+              "WhenOpened": "2026-01-29T08:45:09.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Math.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\Math.cs",
-              "RelativeDocumentMoniker": "Math.cs",
-              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\Math.cs",
-              "RelativeToolTip": "Math.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "C:\\2026IT6\\IT6D\\IT6DFirstDemoAppCS\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowA0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T05:26:46.241Z"
+              "WhenOpened": "2026-01-29T08:45:05.287Z",
+              "EditorCaption": ""
             }
           ]
         }

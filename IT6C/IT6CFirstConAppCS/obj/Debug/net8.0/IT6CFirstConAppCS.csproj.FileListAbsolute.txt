@@ -1,12 +1,12 @@
+C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.AssemblyInfoInputs.cache
+C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.AssemblyInfo.cs
+C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.csproj.CoreCompileInputs.cache
 C:\2026IT6\IT6C\IT6CFirstConAppCS\bin\Debug\net8.0\IT6CFirstConAppCS.exe
 C:\2026IT6\IT6C\IT6CFirstConAppCS\bin\Debug\net8.0\IT6CFirstConAppCS.deps.json
 C:\2026IT6\IT6C\IT6CFirstConAppCS\bin\Debug\net8.0\IT6CFirstConAppCS.runtimeconfig.json
 C:\2026IT6\IT6C\IT6CFirstConAppCS\bin\Debug\net8.0\IT6CFirstConAppCS.dll
 C:\2026IT6\IT6C\IT6CFirstConAppCS\bin\Debug\net8.0\IT6CFirstConAppCS.pdb
-C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.GeneratedMSBuildEditorConfig.editorconfig
-C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.AssemblyInfoInputs.cache
-C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.AssemblyInfo.cs
-C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.csproj.CoreCompileInputs.cache
 C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.dll
 C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\refint\IT6CFirstConAppCS.dll
 C:\2026IT6\IT6C\IT6CFirstConAppCS\obj\Debug\net8.0\IT6CFirstConAppCS.pdb

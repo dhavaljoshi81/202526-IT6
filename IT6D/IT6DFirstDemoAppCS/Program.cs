@@ -19,7 +19,6 @@
             Console.WriteLine("--------");
             d2.Display("abc");
         }
-
         static void Main3(string[] args)
         {
             Math math = new Math();
@@ -33,8 +32,7 @@
             mathDelegate += new MathDelegate(math.Multiply);
             Console.WriteLine("Final Result " + mathDelegate(10, 20));
         }
-
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             CallBackDemoClass callBackDemoClass = new CallBackDemoClass();
             callBackDemoClass.GetResult(10, 20);
