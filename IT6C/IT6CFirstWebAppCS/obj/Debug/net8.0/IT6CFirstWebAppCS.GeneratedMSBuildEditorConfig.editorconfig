@@ -17,75 +17,87 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IT6CFirstWebAppCS
 build_property.RootNamespace = IT6CFirstWebAppCS
-build_property.ProjectDir = C:\2026IT6\IT6C\IT6CFirstWebAppCS\
+build_property.ProjectDir = C:\Git Repos\202526-IT6\IT6C\IT6CFirstWebAppCS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\2026IT6\IT6C\IT6CFirstWebAppCS
+build_property.MSBuildProjectDirectory = C:\Git Repos\202526-IT6\IT6C\IT6CFirstWebAppCS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Create.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Delete.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Details.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Edit.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Index.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/ListAll.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/ListAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cTGlzdEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Search.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cU2VhcmNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/SearchResult.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Designation/SearchResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cU2VhcmNoUmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Home/Index.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Home/Privacy.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Math/ShowData.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/LogInTest/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nSW5UZXN0XEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/LogInTest/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nSW5UZXN0XExvZ0luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/LogInTest/LogInFail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nSW5UZXN0XExvZ0luRmFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Math/ShowData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aFxTaG93RGF0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Shared/Error.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/_ViewImports.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/_ViewStart.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/2026IT6/IT6C/IT6CFirstWebAppCS/Views/Shared/_Layout.cshtml]
+[C:/Git Repos/202526-IT6/IT6C/IT6CFirstWebAppCS/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ce8lvjqhcp

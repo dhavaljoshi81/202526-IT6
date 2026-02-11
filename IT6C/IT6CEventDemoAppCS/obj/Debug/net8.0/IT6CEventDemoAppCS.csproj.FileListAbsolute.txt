@@ -1,0 +1,14 @@
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\obj\Debug\net8.0\IT6CEventDemoAppCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\obj\Debug\net8.0\IT6CEventDemoAppCS.AssemblyInfoInputs.cache
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\obj\Debug\net8.0\IT6CEventDemoAppCS.AssemblyInfo.cs
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\obj\Debug\net8.0\IT6CEventDemoAppCS.csproj.CoreCompileInputs.cache
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\bin\Debug\net8.0\IT6CEventDemoAppCS.exe
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\bin\Debug\net8.0\IT6CEventDemoAppCS.deps.json
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\bin\Debug\net8.0\IT6CEventDemoAppCS.runtimeconfig.json
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\bin\Debug\net8.0\IT6CEventDemoAppCS.dll
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\bin\Debug\net8.0\IT6CEventDemoAppCS.pdb
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\obj\Debug\net8.0\IT6CEventDemoAppCS.dll
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\obj\Debug\net8.0\refint\IT6CEventDemoAppCS.dll
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\obj\Debug\net8.0\IT6CEventDemoAppCS.pdb
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\obj\Debug\net8.0\IT6CEventDemoAppCS.genruntimeconfig.cache
+C:\Git Repos\202526-IT6\IT6C\IT6CEventDemoAppCS\obj\Debug\net8.0\ref\IT6CEventDemoAppCS.dll

@@ -8,7 +8,7 @@ namespace IT6CFirstConAppCS.Indexers
 {
     internal class IndexerDemo
     {
-        public static void Main()
+        public static void Main1()
         {
             Students studentList = new Students();
             studentList.Add(new Student

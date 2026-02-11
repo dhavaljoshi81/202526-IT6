@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\",
+  "WorkspaceRootPath": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\indexers\\indexerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:indexers\\indexerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6cfirstconappcs\\threaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:threaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\indexers\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6cfirstconappcs\\multithreaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:multithreaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6cfirstconappcs\\indexers\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:indexers\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstconappcs\\indexers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6cfirstconappcs\\indexers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A043CAD-6596-4DC2-9C4A-1375AC54C36F}|IT6CFirstConAppCS.csproj|solutionrelative:indexers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,41 +43,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Students.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Students.cs",
-              "RelativeDocumentMoniker": "Indexers\\Students.cs",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Students.cs",
-              "RelativeToolTip": "Indexers\\Students.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAIwEUAAAARAAAA",
+              "Title": "MultiThreadDemo.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\MultiThreadDemo.cs",
+              "RelativeDocumentMoniker": "MultiThreadDemo.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\MultiThreadDemo.cs",
+              "RelativeToolTip": "MultiThreadDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:57:05.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Student.cs",
-              "RelativeDocumentMoniker": "Indexers\\Student.cs",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Student.cs",
-              "RelativeToolTip": "Indexers\\Student.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:54:45.897Z",
+              "WhenOpened": "2026-02-10T06:02:33.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IndexerDemo.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\IndexerDemo.cs",
-              "RelativeDocumentMoniker": "Indexers\\IndexerDemo.cs",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\IndexerDemo.cs",
-              "RelativeToolTip": "Indexers\\IndexerDemo.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAIwDMAAAAqAAAA",
+              "Title": "ThreadDemo.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\ThreadDemo.cs",
+              "RelativeDocumentMoniker": "ThreadDemo.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\ThreadDemo.cs",
+              "RelativeToolTip": "ThreadDemo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:53:38.741Z",
+              "WhenOpened": "2026-02-10T05:54:42.123Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Students.cs",
+              "RelativeDocumentMoniker": "Indexers\\Students.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Students.cs",
+              "RelativeToolTip": "Indexers\\Students.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:57:05.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Student.cs",
+              "RelativeDocumentMoniker": "Indexers\\Student.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\Indexers\\Student.cs",
+              "RelativeToolTip": "Indexers\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:54:45.897Z"
             }
           ]
         }

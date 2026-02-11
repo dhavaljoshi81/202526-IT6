@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TqzDzssdgzQ=",
+  "dgSpecHash": "39WSL+vzpiw=",
   "success": true,
-  "projectFilePath": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\IT6CFirstWebAppCS.csproj",
+  "projectFilePath": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\IT6CFirstWebAppCS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

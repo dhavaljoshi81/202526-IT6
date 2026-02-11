@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CEventDemoAppCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA230F6-ABD7-46B0-B2CD-E181DC86C90A}|IT6CEventDemoAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6ceventdemoappcs\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA230F6-ABD7-46B0-B2CD-E181DC86C90A}|IT6CEventDemoAppCS.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA230F6-ABD7-46B0-B2CD-E181DC86C90A}|IT6CEventDemoAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6ceventdemoappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA230F6-ABD7-46B0-B2CD-E181DC86C90A}|IT6CEventDemoAppCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CEventDemoAppCS\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CEventDemoAppCS\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:40:41.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CEventDemoAppCS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CEventDemoAppCS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:36:56.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

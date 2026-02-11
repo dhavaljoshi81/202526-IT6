@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\IT6CFirstConAppCS.csproj": {}
+    "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\IT6CFirstConAppCS.csproj": {}
   },
   "projects": {
-    "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\IT6CFirstConAppCS.csproj": {
+    "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\IT6CFirstConAppCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\IT6CFirstConAppCS.csproj",
+        "projectUniqueName": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\IT6CFirstConAppCS.csproj",
         "projectName": "IT6CFirstConAppCS",
-        "projectPath": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\IT6CFirstConAppCS.csproj",
+        "projectPath": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\IT6CFirstConAppCS.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\2026IT6\\IT6C\\IT6CFirstConAppCS\\obj\\",
+        "outputPath": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstConAppCS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

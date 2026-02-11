@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\",
+  "WorkspaceRootPath": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstwebappcs\\views\\designation\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|solutionrelative:views\\designation\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6cfirstwebappcs\\controllers\\logintestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|solutionrelative:controllers\\logintestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstwebappcs\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|solutionrelative:controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6cfirstwebappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstwebappcs\\views\\designation\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|solutionrelative:views\\designation\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|c:\\2026it6\\it6c\\it6cfirstwebappcs\\views\\designation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|solutionrelative:views\\designation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6cfirstwebappcs\\views\\logintest\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|solutionrelative:views\\logintest\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,54 +38,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SearchResult.cshtml",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\Views\\Designation\\SearchResult.cshtml",
-              "RelativeDocumentMoniker": "Views\\Designation\\SearchResult.cshtml",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\Views\\Designation\\SearchResult.cshtml",
-              "RelativeToolTip": "Views\\Designation\\SearchResult.cshtml",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T09:03:31.665Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:01:01.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\Views\\Designation\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Designation\\Create.cshtml",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\Views\\Designation\\Create.cshtml",
-              "RelativeToolTip": "Views\\Designation\\Create.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Views\\LogInTest\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "Views\\LogInTest\\LogIn.cshtml",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Views\\LogInTest\\LogIn.cshtml",
+              "RelativeToolTip": "Views\\LogInTest\\LogIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T08:47:03.588Z",
+              "WhenOpened": "2026-02-09T05:41:56.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\Views\\Designation\\Search.cshtml",
-              "RelativeDocumentMoniker": "Views\\Designation\\Search.cshtml",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\Views\\Designation\\Search.cshtml",
-              "RelativeToolTip": "Views\\Designation\\Search.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T08:46:41.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DesignationController.cs",
-              "DocumentMoniker": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\Controllers\\DesignationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DesignationController.cs",
-              "ToolTip": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\Controllers\\DesignationController.cs",
-              "RelativeToolTip": "Controllers\\DesignationController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACUAAAAiAAAA",
+              "Title": "LogInTestController.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Controllers\\LogInTestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogInTestController.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Controllers\\LogInTestController.cs",
+              "RelativeToolTip": "Controllers\\LogInTestController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T06:38:43.151Z",
+              "WhenOpened": "2026-02-09T05:40:23.752Z",
               "EditorCaption": ""
             }
           ]

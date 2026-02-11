@@ -6587,11 +6587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\IT6CFirstWebAppCS.csproj",
+      "projectUniqueName": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\IT6CFirstWebAppCS.csproj",
       "projectName": "IT6CFirstWebAppCS",
-      "projectPath": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\IT6CFirstWebAppCS.csproj",
+      "projectPath": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\IT6CFirstWebAppCS.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\2026IT6\\IT6C\\IT6CFirstWebAppCS\\obj\\",
+      "outputPath": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
