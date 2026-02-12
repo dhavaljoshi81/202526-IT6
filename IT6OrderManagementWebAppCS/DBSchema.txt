@@ -1,0 +1,80 @@
+﻿CREATE TABLE Products (
+    ProductId INT IDENTITY(1,1) PRIMARY KEY,
+    ProductName NVARCHAR(100) NOT NULL,
+    Price DECIMAL(10,2) NOT NULL,
+    InStock BIT NOT NULL DEFAULT 1,
+    CreatedDate DATETIME DEFAULT GETDATE()
+);
+
+
+-- Stored Procedure 1: Get All Products
+
+CREATE PROCEDURE sp_GetAllProducts
+AS
+BEGIN
+    SELECT 
+        ProductId, ProductName, Price, InStock, CreatedDate
+    FROM Products 
+    ORDER BY ProductName;
+END
+GO
+
+-- Stored Procedure 2: Get Product by ID (READ)
+
+CREATE PROCEDURE sp_GetProductById
+    @ProductId INT
+AS
+BEGIN
+    SELECT 
+        ProductId, ProductName, Price, InStock, CreatedDate
+    FROM Products 
+    WHERE ProductId = @ProductId;
+END
+GO
+
+-- Stored Procedure 3: Add New Product (INSERT)
+CREATE PROCEDURE sp_AddProduct
+    @ProductName NVARCHAR(100),
+    @Price DECIMAL(10,2),
+    @InStock BIT
+AS
+BEGIN
+    INSERT INTO Products (ProductName, Price, InStock)
+    VALUES (@ProductName, @Price, @InStock);
+END
+
+-- Stored Procedure 4: UPDATE Stored Procedure
+CREATE PROCEDURE sp_UpdateProduct
+    @ProductId INT,
+    @ProductName NVARCHAR(100),
+    @Price DECIMAL(10,2),
+    @InStock BIT
+AS
+BEGIN
+    UPDATE Products 
+    SET ProductName = @ProductName,
+        Price = @Price,
+        InStock = @InStock
+    WHERE ProductId = @ProductId;
+END
+GO
+
+-- Stored Procedure 5: DELETE Stored Procedure  
+CREATE PROCEDURE sp_DeleteProduct
+    @ProductId INT
+AS
+BEGIN
+    DELETE FROM Products 
+    WHERE ProductId = @ProductId;
+END
+GO
+
+-- Sample Data Insertion
+
+INSERT INTO Products (ProductName, Price, InStock) VALUES
+('Laptop Dell', 25000.00, 1),
+('Samsung Mobile', 15000.00, 1),
+('Logitech Mouse', 500.00, 1),
+('HP Keyboard', 800.00, 0),
+('Samsung TV 55"', 45000.00, 1);
+

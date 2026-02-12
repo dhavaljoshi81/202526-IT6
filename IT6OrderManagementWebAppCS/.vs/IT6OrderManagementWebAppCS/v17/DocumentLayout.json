@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\dbschema.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:dbschema.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|c:\\git repos\\202526-it6\\it6ordermanagementwebappcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA29981F-E9FF-4CFD-ABE8-D32EE6407457}|IT6OrderManagementWebAppCS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T07:32:59.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T07:30:23.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBSchema.txt",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\DBSchema.txt",
+              "RelativeDocumentMoniker": "DBSchema.txt",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\DBSchema.txt",
+              "RelativeToolTip": "DBSchema.txt",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-12T07:23:22.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T06:02:29.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T05:56:04.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T05:55:05.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwDoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T05:53:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-11T05:50:31.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T05:49:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6OrderManagementWebAppCS\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAcwKsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T05:46:12.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

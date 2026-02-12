@@ -1,0 +1,39 @@
+﻿@model IT6OrderManagementWebAppCS.Models.Product
+@{
+    ViewBag.Title = "Add Product";
+}
+
+<h2>Add New Product</h2>
+
+<form method="post" action="/Product/Create">
+    @* @if (ViewBag.Error != null)
+    {
+        <div style="color:red; padding:10px; background:pink;">
+            @ViewBag.Error
+        </div>
+    } *@
+
+    <table cellpadding="10">
+        <tr>
+            <td>Product Name:</td>
+            <td><input type="text" name="ProductName" value="@Model.ProductName" style="width:250px;" required /></td>
+        </tr>
+        <tr>
+            <td>Price:</td>
+            <td><input type="number" name="Price" step="0.01" value="@Model.Price" style="width:250px;" min="0.01" required /></td>
+        </tr>
+        <tr>
+            <td>In Stock:</td>
+            <td>
+                <input type="checkbox" name="InStock" @(Model.InStock ? "checked" : "") value="true" />
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Add Product" style="background:lightblue; padding:10px;" />
+                <a href="/Product/Index" style="background:lightgray; padding:10px; text-decoration:none;">Cancel</a>
+            </td>
+        </tr>
+    </table>
+</form>

@@ -1,0 +1,31 @@
+﻿@model IT6OrderManagementWebAppCS.Models.Product
+@{
+    ViewBag.Title = "Product Details";
+}
+
+<h2>Product Details</h2>
+
+<table border="1" cellpadding="10" style="border-collapse:collapse;">
+    <tr>
+        <td><strong>ID:</strong></td>
+        <td>@Model.ProductId</td>
+    </tr>
+    <tr>
+        <td><strong>Name:</strong></td>
+        <td>@Model.ProductName</td>
+    </tr>
+    <tr>
+        <td><strong>Price:</strong></td>
+        <td>$@Model.Price</td>
+    </tr>
+    <tr>
+        <td><strong>In Stock:</strong></td>
+        <td>@(Model.InStock ? "Yes" : "No")</td>
+    </tr>
+    <tr>
+        <td><strong>Created:</strong></td>
+        <td>@Model.CreatedDate</td>
+    </tr>
+</table>
+
+<p><a href="/Product/Index">Back to List</a></p>

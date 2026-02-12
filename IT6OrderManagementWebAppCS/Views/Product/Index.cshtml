@@ -1,0 +1,62 @@
+﻿@using IT6OrderManagementWebAppCS.Models;
+
+@model System.Collections.ArrayList
+
+@{
+    ViewBag.Title = "Products List";
+}
+
+<table width="100%">
+    <tr>
+        <td align="left">
+            <h2>Product List</h2>
+        </td>
+        <td align="right">
+            <p><a href="/Product/Create" style="background:lightblue; padding:5px; text-decoration:none;">Add New Product</a></p>
+        </td>
+    </tr>
+</table>
+
+@if (TempData["Message"] != null)
+{
+        <div style="color:green; padding:10px; background:lightgrey;">
+        @TempData["Message"]
+        </div>
+}
+
+@if (ViewBag.Error != null)
+{
+        <div style="color:red; padding:10px; background:pink;">
+        @ViewBag.Error
+        </div>
+}
+
+
+<table border="1" cellpadding="10" style="border-collapse:collapse; width:100%;">
+    <tr style="background-color:lightblue;">
+        <th>ID</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Stock</th>
+        <th>Created</th>
+        <th>Action</th>
+    </tr>
+    @foreach (Product p in Model)
+    {
+            <tr>
+                <td>@p.ProductId</td>
+                <td>@p.ProductName</td>
+                <td>$@p.Price</td>
+                <td>@(p.InStock ? "Yes" : "No")</td>
+                <td>@p.CreatedDate</td>
+                <td>
+                    <a href="/Product/Details/@p.ProductId">View</a> |
+                    <a href="/Product/Edit/@p.ProductId">Edit</a> |
+                    <a href="/Product/Delete/@p.ProductId" 
+                       onclick="return confirm('Are you sure?')">Delete</a>
+                </td>
+            </tr>
+    }
+</table>
+
+

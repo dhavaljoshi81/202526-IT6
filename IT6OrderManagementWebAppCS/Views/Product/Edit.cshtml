@@ -1,0 +1,73 @@
+﻿@model IT6OrderManagementWebAppCS.Models.Product
+@{
+    ViewBag.Title = "Edit Product";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <style>
+        table { border-collapse: collapse; width: 100%; max-width: 500px; }
+        td { padding: 10px; }
+        input[type=text], input[type=number] { width: 100%; padding: 8px; }
+        .error { color: red; background: #ffe6e6; padding: 10px; border: 1px solid red; }
+        .btn { padding: 10px 20px; text-decoration: none; margin: 5px; display: inline-block; }
+        .btn-primary { background: #2196F3; color: white; }
+        .btn-secondary { background: #ccc; color: black; }
+    </style>
+</head>
+<body>
+    <h2>Edit Product</h2>
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="error">@ViewBag.Error</div>
+    }
+
+    <form method="post">
+        <input type="hidden" name="ProductId" value="@Model.ProductId" />
+        <table>
+            <tr>
+                <td><label>ID:</label></td>
+                <td>@Model.ProductId (Auto)</td>
+            </tr>
+            <tr>
+                <td><label>Product Name:</label></td>
+                <td>
+                    <input type="text" 
+                           name="ProductName" 
+                           value="@Model.ProductName" 
+                           required />
+                </td>
+            </tr>
+            <tr>
+                <td><label>Price:</label></td>
+                <td>
+                    <input type="number" 
+                           name="Price" 
+                           step="0.01" 
+                           min="0.01"
+                           value="@Model.Price" 
+                           required />
+                </td>
+            </tr>
+            <tr>
+                <td><label>In Stock:</label></td>
+                <td>
+                    <input type="checkbox" 
+                           name="InStock" 
+                           @(Model.InStock ? "checked" : "") />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td colspan="2">
+                    <input type="submit" value="Update Product" class="btn btn-primary" />
+                    <a href="/Product/Index" class="btn btn-secondary">Cancel</a>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
