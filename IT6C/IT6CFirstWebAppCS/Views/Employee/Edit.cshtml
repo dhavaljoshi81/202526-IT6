@@ -1,0 +1,37 @@
+﻿@model IT6CFirstWebAppCS.Models.Employee
+
+<h2>Edit Employee</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        @Html.HiddenFor(m => m.EmployeeID)
+
+        <div class="form-group">
+            <label>Employee ID: @Model.EmployeeID (Read Only)</label>
+        </div>
+
+        <div class="form-group">
+            <label>Employee Name:</label>
+            @Html.TextBoxFor(m => m.EmployeeName, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Age:</label>
+            @Html.TextBoxFor(m => m.Age, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Designation ID:</label>
+            @Html.TextBoxFor(m => m.DesignationID, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Update Changes" class="btn btn-success" />
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

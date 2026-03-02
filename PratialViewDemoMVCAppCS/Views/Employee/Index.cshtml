@@ -1,0 +1,23 @@
+﻿@using PratialViewDemoMVCAppCS.Models
+@model Employee[]
+
+@{
+    ViewData["Title"] = "Employee Directory";
+}
+
+<h2>@ViewData["Title"]</h2>
+<p>Demonstrating Partial Views using standard Arrays.</p>
+
+<hr />
+
+<div style="display: flex; flex-wrap: wrap;">
+    @foreach (var emp in Model)
+    {
+        <partial name="_EmployeeCard" model="emp" />
+    }
+</div>
+
+<hr />
+
+<h3>Featured Spotlight</h3>
+<partial name="_EmployeeCard" model="Model[0]" />

@@ -1,0 +1,36 @@
+﻿@model IT6CFirstWebAppCS.Models.Employee
+
+<h2>Create Employee</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            <label>Employee ID:</label>
+            @Html.TextBoxFor(m => m.EmployeeID, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Employee Name:</label>
+            @Html.TextBoxFor(m => m.EmployeeName, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Age:</label>
+            @Html.TextBoxFor(m => m.Age, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Designation ID:</label>
+            @Html.TextBoxFor(m => m.DesignationID, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Save Employee" class="btn btn-primary" />
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

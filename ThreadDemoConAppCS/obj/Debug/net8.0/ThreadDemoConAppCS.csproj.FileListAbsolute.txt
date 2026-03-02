@@ -1,0 +1,14 @@
+C:\2026IT6\ThreadDemoConAppCS\bin\Debug\net8.0\ThreadDemoConAppCS.exe
+C:\2026IT6\ThreadDemoConAppCS\bin\Debug\net8.0\ThreadDemoConAppCS.deps.json
+C:\2026IT6\ThreadDemoConAppCS\bin\Debug\net8.0\ThreadDemoConAppCS.runtimeconfig.json
+C:\2026IT6\ThreadDemoConAppCS\bin\Debug\net8.0\ThreadDemoConAppCS.dll
+C:\2026IT6\ThreadDemoConAppCS\bin\Debug\net8.0\ThreadDemoConAppCS.pdb
+C:\2026IT6\ThreadDemoConAppCS\obj\Debug\net8.0\ThreadDemoConAppCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\2026IT6\ThreadDemoConAppCS\obj\Debug\net8.0\ThreadDemoConAppCS.AssemblyInfoInputs.cache
+C:\2026IT6\ThreadDemoConAppCS\obj\Debug\net8.0\ThreadDemoConAppCS.AssemblyInfo.cs
+C:\2026IT6\ThreadDemoConAppCS\obj\Debug\net8.0\ThreadDemoConAppCS.csproj.CoreCompileInputs.cache
+C:\2026IT6\ThreadDemoConAppCS\obj\Debug\net8.0\ThreadDemoConAppCS.dll
+C:\2026IT6\ThreadDemoConAppCS\obj\Debug\net8.0\refint\ThreadDemoConAppCS.dll
+C:\2026IT6\ThreadDemoConAppCS\obj\Debug\net8.0\ThreadDemoConAppCS.pdb
+C:\2026IT6\ThreadDemoConAppCS\obj\Debug\net8.0\ThreadDemoConAppCS.genruntimeconfig.cache
+C:\2026IT6\ThreadDemoConAppCS\obj\Debug\net8.0\ref\ThreadDemoConAppCS.dll

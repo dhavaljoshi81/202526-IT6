@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026IT6\\PratialViewDemoMVCAppCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4427F22-6F0B-438C-A4D8-1FB992B4862E}|PratialViewDemoMVCAppCS.csproj|c:\\2026it6\\pratialviewdemomvcappcs\\views\\shared\\_employeecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4427F22-6F0B-438C-A4D8-1FB992B4862E}|PratialViewDemoMVCAppCS.csproj|solutionrelative:views\\shared\\_employeecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4427F22-6F0B-438C-A4D8-1FB992B4862E}|PratialViewDemoMVCAppCS.csproj|c:\\2026it6\\pratialviewdemomvcappcs\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4427F22-6F0B-438C-A4D8-1FB992B4862E}|PratialViewDemoMVCAppCS.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4427F22-6F0B-438C-A4D8-1FB992B4862E}|PratialViewDemoMVCAppCS.csproj|c:\\2026it6\\pratialviewdemomvcappcs\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4427F22-6F0B-438C-A4D8-1FB992B4862E}|PratialViewDemoMVCAppCS.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4427F22-6F0B-438C-A4D8-1FB992B4862E}|PratialViewDemoMVCAppCS.csproj|c:\\2026it6\\pratialviewdemomvcappcs\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4427F22-6F0B-438C-A4D8-1FB992B4862E}|PratialViewDemoMVCAppCS.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\2026IT6\\PratialViewDemoMVCAppCS\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\2026IT6\\PratialViewDemoMVCAppCS\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T05:05:08.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_EmployeeCard.cshtml",
+              "DocumentMoniker": "C:\\2026IT6\\PratialViewDemoMVCAppCS\\Views\\Shared\\_EmployeeCard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_EmployeeCard.cshtml",
+              "ToolTip": "C:\\2026IT6\\PratialViewDemoMVCAppCS\\Views\\Shared\\_EmployeeCard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_EmployeeCard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T05:04:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\2026IT6\\PratialViewDemoMVCAppCS\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\2026IT6\\PratialViewDemoMVCAppCS\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:03:29.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\2026IT6\\PratialViewDemoMVCAppCS\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\2026IT6\\PratialViewDemoMVCAppCS\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:02:11.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

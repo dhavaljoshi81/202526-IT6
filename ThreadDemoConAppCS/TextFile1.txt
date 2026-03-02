@@ -1,0 +1,20 @@
+﻿Thread.Start(): 
+This doesn't run the code immediately; 
+it tells the Operating System that the thread is ready to run. 
+The OS scheduler decides when it actually gets CPU time.
+
+Thread.Sleep(ms): 
+This is crucial for demos. 
+It forces a thread to yield its turn, allowing the students to see the 
+"interleaving" (the mix of Xs and Ys) in the console.
+
+Thread.Join(): 
+Use the "Waiting for a friend" analogy. 
+The Main thread reaches this line and stops until the child thread finishes. 
+Without this, the program might close while the workers are still busy.
+
+Method -> Action
+Start -> Begins the execution of the thread.
+Sleep -> Suspends the current thread for a specified time.
+Join -> Blocks the calling thread until the target thread terminates.
+Priority -> Hints to the OS how much CPU time the thread should get.

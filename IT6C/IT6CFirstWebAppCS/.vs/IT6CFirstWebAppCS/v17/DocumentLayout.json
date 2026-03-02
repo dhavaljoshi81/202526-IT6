@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6cfirstwebappcs\\controllers\\logintestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|solutionrelative:controllers\\logintestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|c:\\git repos\\202526-it6\\it6c\\it6cfirstwebappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CF6E8C5-DB2D-4D57-88F1-8FFD5979A8ED}|IT6CFirstWebAppCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -51,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LogIn.cshtml",
               "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Views\\LogInTest\\LogIn.cshtml",
               "RelativeDocumentMoniker": "Views\\LogInTest\\LogIn.cshtml",
@@ -59,21 +55,7 @@
               "RelativeToolTip": "Views\\LogInTest\\LogIn.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-09T05:41:56.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LogInTestController.cs",
-              "DocumentMoniker": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Controllers\\LogInTestController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LogInTestController.cs",
-              "ToolTip": "C:\\Git Repos\\202526-IT6\\IT6C\\IT6CFirstWebAppCS\\Controllers\\LogInTestController.cs",
-              "RelativeToolTip": "Controllers\\LogInTestController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T05:40:23.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T05:41:56.748Z"
             }
           ]
         }
