@@ -1,5 +1,6 @@
 ﻿using Microsoft.Data.SqlClient;
 using System.Collections;
+using System.Data;
 
 namespace IT6CFirstWebAppCS.Models
 {
@@ -116,22 +117,47 @@ namespace IT6CFirstWebAppCS.Models
                     emp.DesignationName = rdr["DesignationName"].ToString();
                     employeeWithDesignation.employees.Add(emp);
                 }
+                rdr.Close();
+                string sqlDesignations = "SELECT * FROM Designation";
+                SqlCommand cmd1 = new SqlCommand(sqlDesignations, conn);
 
-                //string sqlDesignations = "SELECT * FROM Designation";
-                //SqlCommand cmd1 = new SqlCommand(sqlDesignations, conn);
-
-                //SqlDataReader rdr1 = cmd1.ExecuteReader();
-                //while (rdr1.Read())
-                //{
-                //    Designation desig = new Designation();
-                //    desig.DesignationID = (int)rdr1["DesignationID"];
-                //    desig.DesignationName = rdr1["DesignationName"].ToString();
-                //    employeeWithDesignation.designations.Add(desig);
-                //}
+                rdr = cmd1.ExecuteReader();
+                while (rdr.Read())
+                {
+                    Designation desig = new Designation();
+                    desig.DesignationID = (int)rdr["DesignationID"];
+                    desig.DesignationName = rdr["DesignationName"].ToString();
+                    employeeWithDesignation.designations.Add(desig);
+                }
             }
 
-
             return employeeWithDesignation;
+        }
+
+        public DataTable GetAllDesignations()
+        {
+            DataTable dt = new DataTable();
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                
+                SqlCommand cmd = new SqlCommand("SELECT DesignationID, DesignationName FROM Designation", conn);
+                conn.Open();
+                DataSet dataSet = new DataSet();
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                da.Fill(dataSet,"Designation");
+                dt = dataSet.Tables["Designation"];
+                
+            }
+            return dt;
+
+            //DataTable dt = new DataTable();
+            //using (SqlConnection conn = new SqlConnection(connectionString))
+            //{
+            //    SqlCommand cmd = new SqlCommand("SELECT DesignationID, DesignationName FROM Designation", conn);
+            //    conn.Open();
+            //    SqlDataAdapter da = new SqlDataAdapter(cmd);
+            //    da.Fill(dt);
+            //}
         }
     }
 }

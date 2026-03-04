@@ -1,6 +1,8 @@
 ﻿using IT6CFirstWebAppCS.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections;
+using System.Data;
 
 namespace IT6CFirstWebAppCS.Controllers
 {
@@ -20,9 +22,33 @@ namespace IT6CFirstWebAppCS.Controllers
             return View(ed);
         }
 
+        private void GetAllDesignationsInList()
+        {
+            DataTable dt = db.GetAllDesignations();
+
+            ArrayList items = new ArrayList();
+            if (dt != null)
+            {
+                foreach (DataRow row in dt.Rows)
+                {
+                    items.Add(new
+                    {
+                        DesignationID = row["DesignationID"].ToString(),
+                        DesignationName = row["DesignationName"].ToString()
+                    });
+                    Console.WriteLine(row["DesignationName"].ToString());
+                }
+            }
+
+            ViewBag.DesignationList = 
+                new SelectList(items, "DesignationID", "DesignationName");
+
+        }
+
         public ActionResult Create() 
         { 
-            return View(); 
+            GetAllDesignationsInList();
+            return View();
         }
 
         [HttpPost]
@@ -35,6 +61,7 @@ namespace IT6CFirstWebAppCS.Controllers
         public ActionResult Edit(int id)
         {
             Employee emp = db.GetEmployeeById(id);
+            GetAllDesignationsInList();
             return View(emp);
         }
 

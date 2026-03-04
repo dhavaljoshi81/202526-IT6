@@ -2,6 +2,14 @@
 
 <h2>Create Employee</h2>
 
+@* @{
+    var test = ViewBag.DesignationList;
+    foreach (var item in test)
+    {
+        <p>@item.Text - @item.Value</p>
+    }
+} 
+ *@
 @using (Html.BeginForm())
 {
     <div class="form-horizontal">
@@ -22,7 +30,8 @@
 
         <div class="form-group">
             <label>Designation ID:</label>
-            @Html.TextBoxFor(m => m.DesignationID, new { @class = "form-control" })
+            @* @Html.TextBoxFor(m => m.DesignationID, new { @class = "form-control" }) *@
+            @Html.DropDownListFor(m => m.DesignationID, (SelectList)ViewBag.DesignationList, "-- Select Designation --", new { @class = "form-control" })
         </div>
 
         <div class="form-group">

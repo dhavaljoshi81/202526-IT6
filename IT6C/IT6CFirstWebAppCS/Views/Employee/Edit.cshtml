@@ -23,7 +23,8 @@
 
         <div class="form-group">
             <label>Designation ID:</label>
-            @Html.TextBoxFor(m => m.DesignationID, new { @class = "form-control" })
+            @* @Html.TextBoxFor(m => m.DesignationID, new { @class = "form-control" }) *@
+            @Html.DropDownListFor(m => m.DesignationID, (SelectList)ViewBag.DesignationList, new { @class = "form-control" })
         </div>
 
         <div class="form-group">

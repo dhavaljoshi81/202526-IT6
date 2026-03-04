@@ -1,0 +1,46 @@
+﻿@model IT6CFirstWebAppCS.Models.SettingsViewModel
+
+<form asp-action="Index" method="post" class="p-4">
+
+    <div class="mb-3">
+        <label>Work Preference (Dropdown)</label>
+        @Html.DropDownListFor(m => m.SelectedPreference, Model.PreferenceList, "-- Select --", new { @class = "form-control" })
+    </div>
+
+    <hr />
+
+    <div class="mb-3">
+        <label>Work Preference (Radio)</label>
+        @{
+            Array values = Enum.GetValues(typeof(IT6CFirstWebAppCS.Models.WorkPreference));
+            foreach (var val in values)
+            {
+                <div class="form-check">
+                    @Html.RadioButtonFor(m => m.SelectedPreference2, val, new { id = "radio_" + val })
+                    <label for="radio_@val">@val.ToString()</label>
+                </div>
+            }
+        }
+    </div>
+
+    <hr />
+
+    <div class="mb-3">
+        <label>Additional Interest (Checkboxes)</label>
+        @{
+            foreach (var val in Enum.GetValues(typeof(IT6CFirstWebAppCS.Models.WorkPreference)))
+            {
+                <div class="form-check">
+                    <input type="checkbox"
+                           name="SelectedRoles"
+                           value="@val"
+                           id="check_@val"
+                           class="form-check-input" />
+                    <label class="form-check-label" for="check_@val">@val.ToString()</label>
+                </div>
+            }
+        }
+    </div>
+
+    <button type="submit" class="btn btn-success">Submit</button>
+</form>

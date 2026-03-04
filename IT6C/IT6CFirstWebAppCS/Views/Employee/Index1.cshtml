@@ -32,3 +32,28 @@
         </tr>
     }
 </table>
+
+<h2>Designation List</h2>
+<p>@Html.ActionLink("Create New", "Create", "Designation")</p>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Designation Name</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (object obj in Model.designations)
+    {
+        // Manual cast required because ArrayList is non-generic
+        var item = (IT6CFirstWebAppCS.Models.Designation)obj;
+        <tr>
+            <td>@item.DesignationID</td>
+            <td>@item.DesignationName</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit","Designation", new { id = item.DesignationID }) |
+                @Html.ActionLink("Delete", "Delete", "Designation", new { id = item.DesignationID })
+            </td>
+        </tr>
+    }
+</table>
